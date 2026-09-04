@@ -2,6 +2,8 @@
 
 An interactive Streamlit dashboard using generated example sales and customer-activity data.
 
+![Dashboard preview](dashboard%20example.png)
+
 It includes filters, key metrics, a monthly trend plot, bar chart, pie chart, revenue heatmap, and a customer activity map.
 
 ## Run it
